@@ -18,6 +18,12 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Before running, you will need to add your custom map (in this case quailvalley) into node modules -> @svg-maps
+
+Sometimes this will delete when npm updates, or when you npm install. 
+
+Then npm start to run.
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
