@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" 	aria-label="Map of Quail Valley " xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.28 841.89" style="enable-background:new 0 0 595.28 841.89;" xml:space="preserve">
+
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<rect id="kauri" name="Kauri" x="136.78" y="295.07" transform="matrix(0.866 -0.5 0.5 0.866 -129.4482 118.615)" class="st0" width="39.67" height="11.59" onclick="alert('Kauri')"/>
+<rect id="poh" name="Pohutakawa" x="198.3" y="340.39" transform="matrix(-7.050945e-03 -1 1 -7.050945e-03 -129.9973 560.4331)" class="st0" width="29.9" height="8.73" onclick="alert('Pohutakawa')"/>
+<rect id="kah" name="Kahikitea" x="345.51" y="258.32" transform="matrix(0.7805 -0.6251 0.6251 0.7805 -85.9869 280.4577)" class="st0" width="21.85" height="8.73" onclick="alert('Kahikatea')"/>
+<rect id="tot" name="Totara" x="371.38" y="230.1" transform="matrix(0.7805 -0.6251 0.6251 0.7805 -62.6649 290.4391)" class="st0" width="21.85" height="8.73" onclick="alert('Totara')"/>
+<rect id="pop" name="Poplar" x="392.81" y="203.29" transform="matrix(0.7805 -0.6251 0.6251 0.7805 -41.2062 297.9475)" class="st0" width="21.85" height="8.73" onclick="alert('Poplar')"/>
+<rect id="kow" name="Kowhai" x="413.84" y="177.95" transform="matrix(0.7805 -0.6251 0.6251 0.7805 -20.7491 305.5316)" class="st0" width="21.85" height="8.73" onclick="alert('Kowhai')"/>
+<rect id="rat" name="Rata" x="463.75" y="156.13" transform="matrix(0.7805 -0.6251 0.6251 0.7805 3.8455 331.9434)" class="st0" width="21.85" height="8.73" onclick="alert('Rata')"/>
+<rect id="Mai" name="Maitai" x="327.96" y="184.67" transform="matrix(0.3173 -0.9483 0.9483 0.3173 52.0818 450.4223)" class="st0" width="21.85" height="8.73" onclick="alert('Maitai')"/>
+<rect id="rim" name="Rimu" x="261.46" y="316.35" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 238.2215 740.0987)" class="st0" width="21.85" height="8.73" onclick="alert('Rimu')"/>
+<rect id="man" name="Manuka"  x="215.56" y="331.15" transform="matrix(-0.1971 -0.9804 0.9804 -0.1971 -57.7946 623.7013)" class="st0" width="21.85" height="8.73" onclick="alert('Manuka')"/>
+<rect id="wek" name="Weka" x="114.47" y="330.79" transform="matrix(-0.9971 -0.0766 0.0766 -0.9971 224.7375 678.9296)" class="st0" width="21.85" height="8.73" onclick="alert('Weka')"/>
+<rect id="tui" name="Tui" x="93.64" y="340.73" transform="matrix(-0.5919 0.806 -0.806 -0.5919 442.3943 460.7448)" class="st0" width="21.85" height="3.27" onclick="alert('Tui')"/>
+</svg>

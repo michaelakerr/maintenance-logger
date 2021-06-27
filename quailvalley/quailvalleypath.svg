@@ -1,0 +1,82 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path
+    name="Kauri"
+    id="kauri" 
+    style="fill:#ffffff;stroke:#000000;stroke-width:0.999978;stroke-miterlimit:10"
+    d="m 40.465474,156.20412 34.35422,-19.835 5.795,10.03694 -34.35422,19.835 z"
+    class="st0" />
+ <path
+
+    name="Pohutakawa"
+    id="poh"
+    style="fill:#ffffff;stroke:#000000;stroke-width:1.00002;stroke-miterlimit:10"
+    d="m 112.9217,210.18152 -0.21083,-29.9 8.73,-0.0616 0.21083,29.9 z"
+    class="st0" />
+ <path
+
+    name="Kahikatea"
+    id="kah"
+    style="fill:#ffffff;stroke:#000000;stroke-width:0.999965;stroke-miterlimit:10"
+    d="m 249.08669,116.54666 17.05393,-13.65844 5.45712,6.81377 -17.05393,13.65843 z"
+    class="st0" />
+ <path
+
+    name="Totara"
+    id="tot"
+    style="fill:#ffffff;stroke:#000000;stroke-width:0.999965;stroke-miterlimit:10"
+    d="m 274.9599,88.331015 17.05393,-13.658441 5.45712,6.813765 -17.05393,13.658441 z"
+    class="st0" />
+ <path
+
+    name="Poplar"
+    id="pop"
+    style="fill:#ffffff;stroke:#000000;stroke-width:0.999965;stroke-miterlimit:10"
+    d="m 296.38577,61.518301 17.05392,-13.658435 5.45712,6.813765 -17.05392,13.658435 z"
+    class="st0" />
+ <path
+
+    name="Kowhai"
+    id="kow"
+    style="fill:#ffffff;stroke:#000000;stroke-width:0.999965;stroke-miterlimit:10"
+    d="m 317.41675,36.178686 17.05393,-13.658435 5.45712,6.813765 -17.05392,13.658435 z"
+    class="st0" />
+ <path
+
+    name="Rata"
+    id="rat"
+    style="fill:#ffffff;stroke:#000000;stroke-width:0.999965;stroke-miterlimit:10"
+    d="M 367.32643,14.361235 384.38035,0.70279978 389.83748,7.5165648 372.78355,21.175 Z"
+    class="st0" />
+ <path
+
+    name="Maitai"
+    id="Mai"
+    style="fill:#ffffff;stroke:#000000;stroke-width:0.999976;stroke-miterlimit:10"
+    d="m 235.19325,48.462127 6.93301,-20.720355 8.27866,2.770029 -6.93301,20.720355 z"
+    class="st0" />
+ <path
+
+    name="Rimu"
+    id="rim"
+    style="fill:#ffffff;stroke:#000000;stroke-width:0.99999;stroke-miterlimit:10"
+    d="m 180.96142,181.97774 -15.45013,-15.45013 6.17298,-6.17298 15.45014,15.45013 z"
+    class="st0" />
+ <path
+
+    name="Manuka"
+    id="man"
+    style="fill:#ffffff;stroke:#000000;stroke-width:1.00002;stroke-miterlimit:10"
+    d="m 128.30516,197.54511 -4.30663,-21.42174 8.55889,-1.72069 4.30664,21.42174 z"
+    class="st0" />
+ <path
+    name="Weka"
+    id="wek"
+    style="fill:#ffffff;stroke:#000000;stroke-width:1.00004;stroke-miterlimit:10"
+    d="m 39.865167,190.77897 -21.786635,-1.67371 0.668718,-8.70468 21.786635,1.67371 z"
+    class="st0" />
+ <path
+ name="Tui"
+    id="tui"
+    style="fill:#ffffff;stroke:#000000;stroke-width:0.999991;stroke-miterlimit:10"
+    d="M 16.267586,184.98904 3.3345704,202.60014 0.69895037,200.66463 13.631966,183.05353 Z"
+    class="st0" /> </svg>

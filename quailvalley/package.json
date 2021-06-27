@@ -1,0 +1,20 @@
+{
+	"name": "@svg-maps/quailvalley",
+	"version": "1.0.0",
+	"description": "Map of QuailV Valey",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/quailvalley"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"quailvalley"
+	],
+	"author": "Micahela Kerr",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "MIT"
+}

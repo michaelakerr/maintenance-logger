@@ -1,0 +1,45 @@
+.svg-map {
+	width: 100%;
+	stroke: #666;
+	stroke-width: 1;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	transform: scale(2.5);
+	outline: #666;
+	padding: 50px;
+
+	&__location {
+		fill: #a1d99b;
+		cursor: pointer;
+
+		&:focus,
+		&:hover {
+			fill: #b8e2b3;
+		}
+		&[aria-checked=true] {
+			fill: #f4bc44;
+		}
+	}
+}
+
+.regional-map-container {
+	display: flex;
+	flex-direction: column;
+	width: 95%;
+	height: 500px;
+	align-items: stretch;
+	border-color: #f4bc44;
+	border: #f4bc44;
+
+
+	svg {
+		width: 100%;
+		height: 100%;
+		flex-grow: 1;
+		transform: scale(1.5) translate(20%, 20%)
+	}
+
+	.svg-container {
+		flex-grow: 1;
+	}
+}
